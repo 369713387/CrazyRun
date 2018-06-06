@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 543518345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 731eeffc95bee059bca3ffeb0bb03267
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 699e35784aabf30015644165565bb9ba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 511dd56989b75144cbef988a42a4afa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d99b210cad52aff4db57da0750ae1dd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99d541ae85b38654a99fbbb84434e43f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3efa00becedf9ae4ea24e570bc92a972, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c401804f51fc4d54fb258949ead0ded1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Characters/Raccoon/character.prefab
+Dependencies: []

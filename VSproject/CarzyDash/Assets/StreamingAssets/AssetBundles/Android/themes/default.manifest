@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2035325847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 395e5d879e4e10f4b03d7dc156f6d34b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e1a641d934e039ecb7871143c3743f25
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 068b7f61a73e1d942a06f3314a268539, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be237cd63fbbb3e4a999dd404d85c605, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ef9ccd6648a34742830f3083f577dc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45a14eb728143954d9681ab13cf9be4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 511dd56989b75144cbef988a42a4afa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbb23c2b3d8dbda46ad2cedbebd8c545, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52517b3ed606b084fa93b57252567308, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c5bde7e1b16f084a846042f3d1930d3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Themes/Default/themeData.asset
+Dependencies: []
